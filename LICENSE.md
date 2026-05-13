@@ -1,4 +1,4 @@
-# 
+# updated Flash Loan Bot for liquidity sniper bot | honeypot-detection & priority-gas-auctions offers the most advanced liquidity sniper bot, with honeypot-detection and
 
 
 
